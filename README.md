@@ -1,3 +1,8 @@
+> [!WARNING]
+> **This repository is archived.** 
+>
+> A registry of custom extensions is no longer provided for the [EPUB 3](https://www.w3.org/TR/epub/#app-vocabs) W3C Recommendation.
+
 # EPUB Custom Extensions
 
 This repository identifies custom extensions allowed in EPUB Publications.
